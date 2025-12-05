@@ -1,0 +1,16 @@
+{
+    "banner":{
+        "name":"Special Offer",
+        "image":"000",
+        "productId":"000"
+    },
+    "items":[
+        {
+            "name":"test",
+            "price":1,
+            "image":"000",
+            "productID":"test001",
+            "Onsale":true
+        }
+    ]
+}
