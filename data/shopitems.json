@@ -2,7 +2,8 @@
     "banner":{
         "name":"Special Offer",
         "image":"000",
-        "productId":"000"
+        "productID":"000",
+        "price":1
     },
     "items":[
         {
