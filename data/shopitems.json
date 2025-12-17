@@ -1,16 +1,16 @@
 {
     "banner":{
-        "name":"Special Offer",
-        "image":"000",
-        "productID":"000",
-        "price":1
+        "name":"VIP Passes",
+        "image":"rbxassetid://121977553100292",
+        "productID":"1634099527",
+        "price":120
     },
     "items":[
         {
-            "name":"test",
-            "price":1,
-            "image":"000",
-            "productID":"test001",
+            "name":"Body Swap Protection",
+            "price":49,
+            "image":"rbxassetid://106049311295547",
+            "productID":"1618372297",
             "Onsale":true
         }
     ]
